@@ -1,0 +1,15 @@
+c.txt usr/share/uniscan/
+DB usr/share/uniscan/
+Directory usr/share/uniscan/
+Files usr/share/uniscan/
+index.php usr/share/uniscan/
+Languages usr/share/uniscan/
+LFI usr/share/uniscan/
+Plugins usr/share/uniscan/
+RCE usr/share/uniscan/
+report usr/share/uniscan/
+RFI usr/share/uniscan/
+Uniscan usr/share/uniscan/
+*.conf usr/share/uniscan/
+*.pl usr/share/uniscan/
+debian/helper-script/* usr/bin/

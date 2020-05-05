@@ -1,0 +1,16 @@
+Source: uniscan
+Section: utils
+Priority: extra
+Maintainer: Kali Developers <devel@kali.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://sourceforge.net/projects/uniscan/
+Vcs-Git: https://gitlab.com/kalilinux/packages/uniscan.git
+Vcs-Browser: https://gitlab.com/kalilinux/packages/uniscan
+
+Package: uniscan
+Architecture: all
+Depends: ${misc:Depends}, perl, libmoose-perl, perl-tk
+Description: LFI, RFI, and RCE vulnerability scanner
+ Uniscan is a simple Remote File Include, Local File Include and Remote 
+ Command Execution vulnerability scanner.
