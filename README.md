@@ -27,7 +27,7 @@ perl uniscan.pl --help
 # COMO ULTILZAR
 
 ```
-perl uniscan.pl -u https://brasilbitcoin.com.br/ -qweds
+perl uniscan.pl -u http://testphp.vulnweb.com/ -qweds
 ```
 
 # Instalar perl
