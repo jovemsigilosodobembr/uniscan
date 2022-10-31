@@ -1,6 +1,6 @@
 # uniscan
  
- Esse unisca está funciondo perfeitamente, Lembrando que coloquei a configuração dele em português
+ Esse uniscan está funciondo perfeitamente, Lembrando que coloquei a configuração dele em português
  Pra Quem Não Manja em ingles
 ----------------------------------------------------------------
 
