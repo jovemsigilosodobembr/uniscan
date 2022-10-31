@@ -11,11 +11,11 @@ Este kit de ferramentas contém materiais que podem ser potencialmente prejudici
 
 Esta ferramenta é feita apenas para fins educacionais . Não tente violar a lei com qualquer coisa aqui contida. Se esta é sua intenção, então dê o fora daqui !
 
-Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indevido das informações para obter acesso não autorizado às mídias sociais de alguém . No entanto, você pode tentar isso por sua conta e risco.
+ Você não deve fazer uso indevido das informações para obter acesso não autorizado às mídias site de alguém . No entanto, você pode tentar isso por sua conta e risco.
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------------
 
 
  Ajuda
