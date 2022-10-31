@@ -28,3 +28,12 @@ pkg install perl
 ```
 yum install perl
 ```
+
+Clonando Repositorio
+
+git clone https://github.com/jovemsigilosodobembr/uniscan
+```
+
+```
+wget https://github.com/jovemsigilosodobembr/uniscan
+```
