@@ -13,7 +13,7 @@ COMO ULTILZAR
 perl uniscan.pl -u http://www.example.com/ -qweds
 ```
 
-Instalar perl
+ Instalar perl
 
 obs: Ve aqual comando que da certo no seu teminal
 
@@ -29,7 +29,7 @@ pkg install perl
 yum install perl
 ```
 
-Clonando Repositorio
+# Clonando Repositorio
 
 ```
 git clone https://github.com/jovemsigilosodobembr/uniscan
