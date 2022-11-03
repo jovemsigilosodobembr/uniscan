@@ -55,3 +55,7 @@ git clone https://github.com/jovemsigilosodobembr/uniscan
 ```
 wget https://github.com/jovemsigilosodobembr/uniscan
 ```
+
+<h2>Deixe Sua Doção :</h2>
+
+<a href="https://raw.githubusercontent.com/jovemsigilosodobembr/Jovem-Sigilso-do-bem-br/main/Wallet/Donate.html?token=GHSAT0AAAAAAB2MSL2KW6H6JPMTFDL4PVUGY3EJDZQ"> Clique para doar</a><br>
