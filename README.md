@@ -46,6 +46,8 @@ pkg install perl
 yum install perl
 ```
 
+ap-get install perl
+
 # Clonando Repositorio
 
 ```
