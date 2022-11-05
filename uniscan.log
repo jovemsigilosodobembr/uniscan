@@ -1,26 +1,26 @@
 ####################################
-# Uniscan project                  #
-# http://uniscan.sourceforge.net/  #
+# Uniscan Português                #
+# embreve                         #
 ####################################
 V. 6.3
 
 
 ####################################
-# Uniscan project                  #
-# http://uniscan.sourceforge.net/  #
+# Uniscan Português                #
+# embreve                         #
 ####################################
 V. 6.3
 
 
 Scan date: 6-5-2020 5:37:32
 ===================================================================================================
-| Domain: https://app.secaas.dev/
+| Domain: https://exemplo.com.br
 | Server: nginx/1.17.8
 | IP: 40.71.101.135
 ===================================================================================================
 |
-| Directory check:
-| Skipped because https://app.secaas.dev/uniscan606/ did not return the code 404
+| Verificação de diretório:
+| Ignorado porque https://app.secaas.dev/uniscan606/ did not return the code 404
 ===================================================================================================
 |
 | Crawler Started:
@@ -34,23 +34,23 @@ Scan date: 6-5-2020 5:37:32
 | Plugin name: Code Disclosure v.1.1 Loaded.
 | [+] Crawling finished, 1868 URL's found!
 |
-| Web Backdoors:
+| Backdoors da Web:
 |
 | Timthumb:
 |
-| File Upload Forms:
+| Formulários de upload de arquivo:
 |
-| FCKeditor File Upload:
+| Carregamento de arquivo do FCKeditor:
 |
 | PHPinfo() Disclosure:
 |
 | E-mails:
 |
-| External hosts:
+| Hosts externos:
 |
-| Source Code Disclosure:
+| Divulgação do código-fonte:
 |
-| Ignored Files: 
+| Arquivos ignorados: 
 ===================================================================================================
 | Dynamic tests:
 | Plugin name: Learning New Directories v.1.2 Loaded.
@@ -91,13 +91,13 @@ Scan date: 6-5-2020 5:37:32
 | Remote Command Execution:
 |                                                                                                   
 |                                                                                                   
-| Remote File Include:
+| Arquivo Remoto Incluir:
 |                                                                                                   
 |                                                                                                   
 | SQL Injection:
 |                                                                                                   
 |                                                                                                   
-| Cross-Site Scripting (XSS):
+| Script entre sites (XSS):
 |                                                                                                   
 |                                                                                                   
-| Web Shell Finder:
+| Localizador de Web Shell:
