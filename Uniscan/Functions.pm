@@ -343,7 +343,7 @@ sub help(){
 
 sub banner(){
 	my $self = shift;
-	&write("a", "####################################\n# Uniscan project                  #\n# http://uniscan.sourceforge.net/  #\n####################################\nV. ". $conf{'version'} ."\n\n");
+	&write("a", "####################################\n# Uniscan Português                 #\n# embreve/  #\n####################################\nV. ". $conf{'version'} ."\n\n");
 }
 
 
